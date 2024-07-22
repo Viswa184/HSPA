@@ -4,7 +4,7 @@ import { Component } from '@angular/core';
   selector: 'app-property-card',
   templateUrl: './property-card.component.html',
   styleUrl: './property-card.component.css'
-})
+}) // emaindho telvadhu
 export class PropertyCardComponent {
 
   Property:any ={
